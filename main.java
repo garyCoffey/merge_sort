@@ -1,4 +1,4 @@
- * PROBLEM 3: merge together two sorted arrays of char into a new array.
+ /* PROBLEM 3: merge together two sorted arrays of char into a new array.
 	 * 
 	 * The examples below 
 	 * Example1  merge: [a c e g ] with [ b d f h] would yield [a b c d e f g h] 
