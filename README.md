@@ -2,9 +2,6 @@
 
 ![Harry Potter sorting hat](https://media.giphy.com/media/JDAVoX2QSjtWU/giphy.gif)
 
-**Code on github**
- <a href="{{ site.data.social-media['github'].href }}{{ site.data.social-media['github'].id }}/{{page.github_name}}" title="{{ site.data.social-media['github'].title }}"><i class="fa {{ site.data.social-media['github'].fa-icon }}"></i></a>
-
 ### Language
 This problem was solve in Java.
 
