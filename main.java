@@ -15,7 +15,6 @@ class main {
 	public static void mergeArrayTests() {
 		char one[] = new char[] {'a','c','e','g','i','k'};
 		char two[] = new char[] {'b','d','f'};
-		mergeArrays(one, two);
 		char[] combinedArray = mergeArrays( one,two);
 		System.out.println("merging: "+ Arrays.toString(one) + " " + Arrays.toString(two));
 		System.out.println("  --> " + Arrays.toString(combinedArray));
